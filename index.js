@@ -1,5 +1,5 @@
 function sumItems(array) {
-  // Sum all the numbers in the array
+  sumItems();
 }
 
 module.exports = sumItems;
